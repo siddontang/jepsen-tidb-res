@@ -26,8 +26,8 @@
     <value>file:///var/lib/hbase</value>
   </property>
   <property>
-    <name>hbase.zookeeper.property.dataDir</name>
-    <value>/var/lib/hbase_zookeeper</value>
+    <name>hbase.tmp.dir</name>
+    <value>/tmp/hbase</value>
   </property>
     <property>
  <name>hbase.coprocessor.user.region.classes</name>
